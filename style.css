@@ -1,0 +1,13 @@
+div {
+    display: flex;
+    flex-direction: column;
+    margin: 15px 10px 0;
+}
+
+input, label {
+    width: 100%;
+}
+
+button {
+    margin: 15px 10px;
+}
